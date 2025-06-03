@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+.image {
+    text-align: center;
+    width: 100%;
+}
+
+#logo {
+    width: 10%;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+ul {
+    color: aliceblue;
+}
+
+.servicos {
+    padding: 1%;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 10%;
+    color: aliceblue;
+    transition: 1s all;
+}
+
+.servicos:hover {
+    font-size: 150%;
+    transition: 1s all;
+}

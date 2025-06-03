@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+}
+
+.image {
+    text-align: center;
+    width: 100%;
+}
+
+#logo {
+    width: 10%;
+}
+
+.home {
+    padding: 1%;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 10%;
+    color: aliceblue;
+    transition: 1s all;
+}
+
+.home:hover {
+    font-size: 150%;
+    transition: 1s all;
+}
+
+.serviços {
+
+    color: aliceblue;
+    font-weight: bold;
+
+}
+.serviços h2 {
+    font-size: 100%;
+    transition: 1s all;
+}
+
+.serviços li {
+    border-style: solid;
+    border-color: aliceblue;
+    text-align: center;
+    border-radius: 5%;
+}
+
+.serviços li:hover h2 {
+    font-size: 200%;
+    transition: 1s all;
+}
+
+#auditoria {
+    width: 10%;
+}
+
+#condomínio {
+    width: 10%;
+}
+
+#imposto {
+    width: 10%;
+}
+
+#bpo {
+    width: 10%;
+}
