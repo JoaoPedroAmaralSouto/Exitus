@@ -45,6 +45,7 @@ body {
 
 .serviços li:hover h2 {
     font-size: 200%;
+    box-shadow: 5px 5px 10px 10px aliceblue;
     transition: 1s all;
 }
 
